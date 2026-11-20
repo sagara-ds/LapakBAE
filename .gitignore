@@ -1,0 +1,5 @@
+php-preview*.log
+.artifacts/
+.taste-skill/
+.impeccable/critique/
+.impeccable/hook.cache.json

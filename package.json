@@ -1,0 +1,21 @@
+{
+  "name": "lapakbae",
+  "version": "1.0.0",
+  "description": "Frontend PHP Native, Bootstrap 5, CSS (60-30-10), JavaScript, Lenis smooth scroll, dan GSAP + ScrollTrigger. Tidak ada controller, model atau query database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagara-ds/LapakBAE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sagara-ds/LapakBAE/issues"
+  },
+  "homepage": "https://github.com/sagara-ds/LapakBAE#readme"
+}

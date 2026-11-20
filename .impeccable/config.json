@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "plus jakarta sans",
+        "createdAt": "2026-11-17T07:30:12.317Z",
+        "reason": "Agent design decision recorded in DESIGN.md: friendly heading proportions for the Indonesian local-services marketplace, paired with DM Sans for forms and body text."
+      }
+    ]
+  }
+}
